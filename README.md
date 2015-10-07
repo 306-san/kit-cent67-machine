@@ -9,7 +9,7 @@ https://docs.google.com/uc?export=download&confirm=Z52T&id=0B7yIaq7QMg_7LWVmNVN5
 そんでDLしたところで、
 
 ```bash
-$vagranr box add kit-cent67 kit-cent67.box
+$vagrant box add kit-cent67 kit-cent67.box
 ```
 あとはこれをcloneして
 ```bash
